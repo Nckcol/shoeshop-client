@@ -1,0 +1,6 @@
+.idea
+public
+node_modules
+
+*.log
+*.*-log
